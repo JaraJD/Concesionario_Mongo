@@ -1,0 +1,12 @@
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Domain.Entities\bin\Debug\net6.0\Domain.Entities.deps.json
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Domain.Entities\bin\Debug\net6.0\Domain.Entities.dll
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Domain.Entities\bin\Debug\net6.0\Domain.Entities.pdb
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Domain.Entities\obj\Debug\net6.0\Domain.Entities.csproj.AssemblyReference.cache
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Domain.Entities\obj\Debug\net6.0\Domain.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Domain.Entities\obj\Debug\net6.0\Domain.Entities.AssemblyInfoInputs.cache
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Domain.Entities\obj\Debug\net6.0\Domain.Entities.AssemblyInfo.cs
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Domain.Entities\obj\Debug\net6.0\Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Domain.Entities\obj\Debug\net6.0\Domain.Entities.dll
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Domain.Entities\obj\Debug\net6.0\refint\Domain.Entities.dll
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Domain.Entities\obj\Debug\net6.0\Domain.Entities.pdb
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Domain.Entities\obj\Debug\net6.0\ref\Domain.Entities.dll

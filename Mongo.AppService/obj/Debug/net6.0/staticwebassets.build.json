@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pPkNrgYg0Smxl6lo88vWUninhfNcTyo4RK0CDYKGCyU=",
+  "Source": "Mongo.AppService",
+  "BasePath": "_content/Mongo.AppService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

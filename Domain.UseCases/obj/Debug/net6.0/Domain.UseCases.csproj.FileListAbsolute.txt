@@ -1,0 +1,15 @@
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Domain.UseCases\obj\Debug\net6.0\Domain.UseCases.csproj.AssemblyReference.cache
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Domain.UseCases\obj\Debug\net6.0\Domain.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Domain.UseCases\obj\Debug\net6.0\Domain.UseCases.AssemblyInfoInputs.cache
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Domain.UseCases\obj\Debug\net6.0\Domain.UseCases.AssemblyInfo.cs
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Domain.UseCases\obj\Debug\net6.0\Domain.UseCases.csproj.CoreCompileInputs.cache
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Domain.UseCases\bin\Debug\net6.0\Domain.UseCases.deps.json
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Domain.UseCases\bin\Debug\net6.0\Domain.UseCases.dll
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Domain.UseCases\bin\Debug\net6.0\Domain.UseCases.pdb
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Domain.UseCases\bin\Debug\net6.0\Domain.Entities.dll
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Domain.UseCases\bin\Debug\net6.0\Domain.Entities.pdb
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Domain.UseCases\obj\Debug\net6.0\Domain.UseCases.csproj.CopyComplete
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Domain.UseCases\obj\Debug\net6.0\Domain.UseCases.dll
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Domain.UseCases\obj\Debug\net6.0\refint\Domain.UseCases.dll
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Domain.UseCases\obj\Debug\net6.0\Domain.UseCases.pdb
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Domain.UseCases\obj\Debug\net6.0\ref\Domain.UseCases.dll

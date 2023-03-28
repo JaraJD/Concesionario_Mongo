@@ -1,0 +1,17 @@
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Mongo.DrivenAdapter\obj\Debug\net6.0\Mongo.DrivenAdapter.csproj.AssemblyReference.cache
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Mongo.DrivenAdapter\obj\Debug\net6.0\Mongo.DrivenAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Mongo.DrivenAdapter\obj\Debug\net6.0\Mongo.DrivenAdapter.AssemblyInfoInputs.cache
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Mongo.DrivenAdapter\obj\Debug\net6.0\Mongo.DrivenAdapter.AssemblyInfo.cs
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Mongo.DrivenAdapter\obj\Debug\net6.0\Mongo.DrivenAdapter.csproj.CoreCompileInputs.cache
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Mongo.DrivenAdapter\bin\Debug\net6.0\Mongo.DrivenAdapter.deps.json
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Mongo.DrivenAdapter\bin\Debug\net6.0\Mongo.DrivenAdapter.dll
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Mongo.DrivenAdapter\bin\Debug\net6.0\Mongo.DrivenAdapter.pdb
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Mongo.DrivenAdapter\bin\Debug\net6.0\Domain.Entities.dll
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Mongo.DrivenAdapter\bin\Debug\net6.0\Domain.UseCases.dll
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Mongo.DrivenAdapter\bin\Debug\net6.0\Domain.UseCases.pdb
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Mongo.DrivenAdapter\bin\Debug\net6.0\Domain.Entities.pdb
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Mongo.DrivenAdapter\obj\Debug\net6.0\Mongo.DrivenAdapter.csproj.CopyComplete
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Mongo.DrivenAdapter\obj\Debug\net6.0\Mongo.DrivenAdapter.dll
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Mongo.DrivenAdapter\obj\Debug\net6.0\refint\Mongo.DrivenAdapter.dll
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Mongo.DrivenAdapter\obj\Debug\net6.0\Mongo.DrivenAdapter.pdb
+C:\Users\juans\Desktop\Programacion\C# .NET\Mongo\EjercicioConcesionario\Concesionario.Mongo\Mongo.DrivenAdapter\obj\Debug\net6.0\ref\Mongo.DrivenAdapter.dll

@@ -13,10 +13,6 @@ namespace Mongo.AppService.Automapper
 			CreateMap<MarcaEntitie, Marca>().ReverseMap();
 			CreateMap<MarcaEntitie, InsertNewMarca>().ReverseMap();
 
-			CreateMap<InsertNewConcesionario, Domain.Entities.Entities.Concesionario>().ReverseMap();
-
-			CreateMap<InsertNewAuto, Auto>().ReverseMap();
-
 		}
 	}
 }
