@@ -9,6 +9,8 @@ namespace Domain.Entities.Entities
 	public class Marca
 	{
 		public string Nombre_marca { get; set; }
+		public string Calidad { get; set; }
+		public string Nacionalidad { get; set; }
 
 	}
 }

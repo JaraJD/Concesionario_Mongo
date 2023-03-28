@@ -11,5 +11,7 @@ namespace Domain.Entities.Commands
 	{
 		[Required(ErrorMessage = "Nombre de la marca es requerido")]
 		public string Nombre_marca { get; set; }
+		public string Calidad { get; set; }
+		public string Nacionalidad { get; set; }
 	}
 }
