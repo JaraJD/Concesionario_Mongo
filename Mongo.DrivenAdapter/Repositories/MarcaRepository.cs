@@ -78,6 +78,8 @@ namespace Mongo.DrivenAdapter.Repositories
 			}
 
 			marcaToUpdate.Nombre_marca = marca.Nombre_marca;
+			marcaToUpdate.Calidad = marca.Calidad;
+			marcaToUpdate.Nacionalidad = marca.Nacionalidad;
 			var updateResult = await mongoCollection.ReplaceOneAsync(filter, marcaToUpdate);
 
 			if (updateResult.ModifiedCount == 0)
